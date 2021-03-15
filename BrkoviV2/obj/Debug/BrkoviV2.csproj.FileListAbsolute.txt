@@ -1,0 +1,10 @@
+C:\Users\Učenik 12\source\repos\BrkoviV2\BrkoviV2\bin\Debug\BrkoviV2.exe.config
+C:\Users\Učenik 12\source\repos\BrkoviV2\BrkoviV2\bin\Debug\BrkoviV2.exe
+C:\Users\Učenik 12\source\repos\BrkoviV2\BrkoviV2\bin\Debug\BrkoviV2.pdb
+C:\Users\Učenik 12\source\repos\BrkoviV2\BrkoviV2\obj\Debug\BrkoviV2.csprojAssemblyReference.cache
+C:\Users\Učenik 12\source\repos\BrkoviV2\BrkoviV2\obj\Debug\BrkoviV2.Form1.resources
+C:\Users\Učenik 12\source\repos\BrkoviV2\BrkoviV2\obj\Debug\BrkoviV2.Properties.Resources.resources
+C:\Users\Učenik 12\source\repos\BrkoviV2\BrkoviV2\obj\Debug\BrkoviV2.csproj.GenerateResource.cache
+C:\Users\Učenik 12\source\repos\BrkoviV2\BrkoviV2\obj\Debug\BrkoviV2.csproj.CoreCompileInputs.cache
+C:\Users\Učenik 12\source\repos\BrkoviV2\BrkoviV2\obj\Debug\BrkoviV2.exe
+C:\Users\Učenik 12\source\repos\BrkoviV2\BrkoviV2\obj\Debug\BrkoviV2.pdb
